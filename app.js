@@ -1,19 +1,19 @@
 import rsvpConfig from './rsvp-config.js'
 
-const weddingConfig = {
-  groom: '新郎姓名',
-  bride: '新娘姓名',
-  groomLatin: 'GROOM',
-  brideLatin: 'BRIDE',
-  weddingDate: '2030-10-01T00:00:00+08:00',
-  dateDot: '2030 · 10 · 01',
-  dateCn: '2030年10月1日 · 星期二',
-  calendarMonth: 'OCT',
-  calendarDay: '01',
-  calendarYear: '2030',
-  venue: '示例市幸福区星露谷宴会厅',
-  venueShort: '星露谷宴会厅',
-  navigationUrl: 'https://uri.amap.com/search?keyword=%E7%A4%BA%E4%BE%8B%E5%B8%82%E5%B9%B8%E7%A6%8F%E5%8C%BA%E6%98%9F%E9%9C%B2%E8%B0%B7%E5%AE%B4%E4%BC%9A%E5%8E%85&src=stardew-wedding&callnative=1',
+  const weddingConfig={
+  groom: '安西康',
+  bride: '孙晓',
+  groomLatin: 'AnXikang',
+  brideLatin: 'SunXiao',
+  weddingDate: '2027-01-18T11:00:00+08:00',
+  dateDot: '2027 · 01 · 18',
+  dateCn: '2027年1月18日 · 星期一',
+  calendarMonth: 'JAN',
+  calendarDay: '18',
+  calendarYear: '2027',
+  venue: '河北省邢台市清河县长城街北太行路东侧舜海庄园',
+  venueShort: '舜海庄园',
+  navigationUrl: 'https://surl.amap.com/5A2jfXw91',
   schedule: [
     { label: '签到', time: '待确认', description: '领取今日任务，与老朋友相见' },
     { label: '仪式', time: '待确认', description: '见证拥抱、誓言与交换戒指' },
